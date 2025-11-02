@@ -15,18 +15,3 @@ QQ：975901806
 
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
- ## 若脚本有帮到您，可以稍微支持一下哦
- <img width="664" height="786" alt="image" src="https://github.com/user-attachments/assets/0d570a16-2d7b-4b6a-8b47-00f75245dcf3" />
