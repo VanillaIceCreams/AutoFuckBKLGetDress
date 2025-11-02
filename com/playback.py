@@ -140,3 +140,4 @@ if __name__ == "__main__":
     recorder.start_replay(filename=filename)
 
 
+#"G:\\xhgm_script\\AutoFuckBKLGetDress\\com\\resource\\json\\鹿.json"

@@ -27,7 +27,7 @@ last_fb_start_time = time.time()
 target_careers = None
 # 进本前的职业
 red_careers = None
-is_n6 = False
+fb_difficulty_mode = 1
 def get_image_path(relative_path):
     """
     获取图片的绝对路径，同时兼容开发环境和打包后的环境
